@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mulcha/static/css/main.78965ccd.css",
+    "main.js": "/mulcha/static/js/main.a498563e.js",
+    "index.html": "/mulcha/index.html",
+    "main.78965ccd.css.map": "/mulcha/static/css/main.78965ccd.css.map",
+    "main.a498563e.js.map": "/mulcha/static/js/main.a498563e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78965ccd.css",
+    "static/js/main.a498563e.js"
+  ]
+}
